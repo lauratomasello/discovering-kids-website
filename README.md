@@ -6,7 +6,7 @@ Official website for **Discovering Kids Consultation Service**, providing high-q
 
 - **Home (`index.html`)**: Overview of services, dual pathways to growth, mission, and calls to action.
 - **About (`about.html`)**: Detailed mission, program overview, Chapter 124 compliance, and *Pre-K for ME* curriculum alignment.
-- **Our Team (`team.html`)**: Bios and qualifications for Founder & Director Allen Tomasello (BCBA, M.Ed.) and Lead Teacher Erica Hughes.
+- **Our Team (`team.html`)**: Bios and qualifications for Founder & Director Allen Tomasello (BCBA, M.Ed.), Lead Teacher Erica Hughes, and Lead Teacher Melanie Fessler.
 - **Testimonials (`testimonials.html`)**: Direct feedback and stories from parents and caregivers.
 - **Contact (`contact.html`)**: Location details, hours, contact information, and inquiry form.
 
